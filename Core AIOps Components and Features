@@ -1,0 +1,4 @@
+Event Correlation: AIOps uses machine learning to correlate and contextualize large volumes of IT events, filtering out noise to ensure that only critical events reach the operations team.
+Incident Management: AIOps enhances incident mgmt. by automatically identifying root causes and suggesting resolutions, reducing incident response times
+Auto Ticketing and Auto-Resolutions: AIOps platforms can create tickets for incidents automatically and, in some cases for known configuration items (CIs), resolve issues autonomously without human intervention. This accelerates response times, ensuring minimal service disruption.
+Application Performance Monitoring emphasizes the importance of continuous performance monitoring at the application level, with AI-Driven insights identifying performance bottlenecks, especially during high-traffic periods or critical flight operations.
